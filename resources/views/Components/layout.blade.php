@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
     <script src="https://cdn.tailwindcss.com"> </script>
-    <script src="https://imgur.com"> </script>
+    <script src="https://imgur.com/gallery/eto"> </script>
 </head>
 <body class="h-full">
     
@@ -16,7 +16,7 @@
       <div class="flex h-16 items-center justify-between">
         <div class="flex items-center">
           <div class="shrink-0">
-            <img class="size-10 rounded-full" src="https://scontent.fmnl40-2.fna.fbcdn.net/v/t39.30808-1/332892815_604001784903909_5037483105630566538_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=108&ccb=1-7&_nc_sid=2d3e12&_nc_eui2=AeHYbzVX00O1BbQZCDtFZRkFWIyMv17zJ79YjIy_XvMnv9vX75pOcWl4YwMU50JTFVwHU4m8rypvAzEXmaXswHSI&_nc_ohc=tBnwX-HJgI8Q7kNvgHWAqmE&_nc_zt=24&_nc_ht=scontent.fmnl40-2.fna&_nc_gid=AN0DfpQv62AEmTr1pin_0eu&oh=00_AYBmbgC2Kq_oWTc0Fw6PzbCwsINF0SXKKGE5GtQNp3ZGCQ&oe=67A24366" alt="Your Company">
+            <img class="size-10 rounded-full" src="https://scontent.fmnl40-1.fna.fbcdn.net/v/t39.30808-6/332892815_604001784903909_5037483105630566538_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHYbzVX00O1BbQZCDtFZRkFWIyMv17zJ79YjIy_XvMnv9vX75pOcWl4YwMU50JTFVwHU4m8rypvAzEXmaXswHSI&_nc_ohc=OEOpmn_be7YQ7kNvgH2yACW&_nc_zt=23&_nc_ht=scontent.fmnl40-1.fna&_nc_gid=A3KEiebgld4-tQnAd0t5iNV&oh=00_AYDr3SY2Otl2Jc5R-_kRq04SSVCyCrDhkIN8qtFN5dk8uQ&oe=67A88D24" alt="Your Company">
           </div>
           <div class="hidden md:block">
             <div class="ml-10 flex items-baseline space-x-4">
