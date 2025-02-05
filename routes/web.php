@@ -5,7 +5,7 @@ use Illuminate\Support\Facades\Route;
 use App\Models\Job; // ✅ Fix missing semicolon
 
 Route::get('/', function () {
-    return view('home');
+   return view('home');
 });
 
 Route::get('/jobs', function () {
